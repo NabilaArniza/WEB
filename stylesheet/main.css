@@ -1,0 +1,56 @@
+li {
+    list-style: none;
+}
+
+.Header-List li {
+    float:left;
+    padding: 33px 20px;
+}
+
+.Header-List{
+        background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+}
+
+.Header-Logo{
+    background-color: #26d0c9;
+    font-size: 36px;
+    color: #fff;
+    float: left;
+    padding: 20px
+}
+
+.main{
+    padding: 100px 80px;
+}
+.copy-container span{
+    color:#ff4a4a;
+}
+
+.copy-container h1{
+    font-size: 140px;
+}
+
+.copy-container h2{
+    font-size: 60px;
+}
+
+.Footer{
+    background-color: #2f5167;
+    height: 120px;
+    padding: 40px;
+    color: #fff;
+}
+.Footer-Logo {
+    font-size: 32px;
+    float: left;
+}
+
+.Footer-List {
+    float: right;
+ }
+
+.Footer-List li {
+    padding-bottom: 20px;
+}
